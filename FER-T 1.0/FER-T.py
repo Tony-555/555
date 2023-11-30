@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2022.2.4),
-    on November 30, 2023, at 10:09
+    on November 29, 2023, at 18:09
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -54,7 +54,7 @@ filename = _thisDir + os.sep + 'data/%s_%s_%s' %(expInfo['participant'], expName
 # An ExperimentHandler isn't essential but helps with data saving
 thisExp = data.ExperimentHandler(name=expName, version='',
     extraInfo=expInfo, runtimeInfo=None,
-    originPath='C:\\Users\\aarri\\Documents\\FERT-master\\FERT-master\\FER-T 1.0\\FER-T_lastrun.py',
+    originPath='C:\\Users\\aarri\\Documents\\FERT-master\\FERT-master\\FER-T 1.0\\FER-T.py',
     savePickle=True, saveWideText=True,
     dataFileName=filename)
 # save a log file for detail verbose info
@@ -96,7 +96,7 @@ defaultKeyboard = keyboard.Keyboard(backend='iohub')
 
 # --- Initialize components for Routine "Instr" ---
 text_2 = visual.TextStim(win=win, name='text_2',
-    text='¿Estas pronto para seguir avanzando en el tablero? \n\n\nEn esta tarea veras imagenes de actores que expresan 3 emociones distintas (miedo, enojo, sorpresa, tristeza, felicidad y asco)\n\nAlgunas de estas expresiones son dificiles de detectar. \n¡Tu tarea es adivinar la emocion que los actores estan expresando!\n\n\nEn cada pantalla tu veras dos imagenes: a la izquierda una expresion neutra y a la derecha la imagen con la expreison que tiene que adivinar! \nApreta el numero que corresponde a la emocion o dila en voz alta\n\n\n¡Presiona la barra espaciadora para comenzar! \n\n',
+    text='Hola!! \n\n¿Estas pronto para seguir avanzando en el tablero? \n\n\nEn esta tarea veras imagenes de actores que expresan 3 emociones distintas (miedo, enojo, sorpresa, tristeza, felicidad y asco)\nAlgunas de estas expresiones son dificiles de detectar. \n¡Tu tarea es adivinar la emocion que los actores estan expresando!\n\n\nEn cada pantalla tu veras dos imagenes: a la izquierda una expresion neutra y a la derecha la imagen con la expreison que tiene que adivinar! \nApreta el numero que corresponde a la emocion o dila en voz alta\n\n\n¡Presiona la barra espaciadora para comenzar! \n\n',
     font='Arial',
     pos=[0, 0], height=0.07, wrapWidth=None, ori=0, 
     color='white', colorSpace='rgb', opacity=1, 
@@ -140,7 +140,7 @@ text_3 = visual.TextStim(win=win, name='text_3',
 
 # --- Initialize components for Routine "Thanks" ---
 text_4 = visual.TextStim(win=win, name='text_4',
-    text='Terminaste la tarea\n\n¡Reclama tu puente en el tablero!',
+    text='Terminaste la tarea! \n\n¡Reclama tu puente en el tablero!',
     font='Arial',
     pos=[0, 0], height=0.1, wrapWidth=None, ori=0, 
     color='white', colorSpace='rgb', opacity=1, 
