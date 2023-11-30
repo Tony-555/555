@@ -13,7 +13,7 @@ To score the test, run the file "FER-T 1.0 Scoring.R" using R (packages BEST and
 For any questions about the test and the scoring procedure, do not hesitate to contact me at marcello.passarelli@gmail.com
 For any questions about the performance of the test in children's contact me at aarrieta@fcien.edu.uy
 
-If you use the FERT, please cite Passarelli, M., Masini, M., Bracco, F., Petrosino, M., & Chiorri, C. (2018). Development and validation of the Facial Expression Recognition Test (FERT). Psychological assessment, 30(11), 1479. http://dx.doi.org/10.1037/pas0000595. If you use this code for your experiment please cite Marcello Passarlli and Antonella Arrieta as a translated and child-adapted version.
+If you use the FERT, please cite Passarelli, M., Masini, M., Bracco, F., Petrosino, M., & Chiorri, C. (2018). Development and validation of the Facial Expression Recognition Test (FERT). Psychological assessment, 30(11), 1479. http://dx.doi.org/10.1037/pas0000595. If you use this code for your experiment please cite Marcello Passarelli and Antonella Arrieta as a translated and child-adapted version.
 
-Data sharing would be welcome!
+
 
